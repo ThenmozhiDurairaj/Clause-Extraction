@@ -1,0 +1,16 @@
+(S
+  (NP
+    (NP (CD 6))
+    (NP (DT The) (NNS policies)))
+  (VP (VBP govern)
+    (NP
+      (NP (NNP EPA))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBP are)
+            (VP (VBN contained)
+              (PP (IN in)
+                (NP (NNP FIFRA)))))))))
+  (. .))
+

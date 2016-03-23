@@ -1,0 +1,9 @@
+NP 6 
+NP policies 
+VP govern 
+NP EPA 
+WHNP that 
+VP are 
+VP contained 
+PP in 
+NP FIFRA . .

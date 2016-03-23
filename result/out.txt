@@ -1,0 +1,13 @@
+NP antimicrobial VP are  regulated  under  NP FIFRA
+NP index VP are  on  NP site
+NP chemical VP can  be  found  in  NP index
+NP show VP was  finished  by  NP 9
+NP show VP was  organized  NP well
+NP editor VP are  provided  with  NP package
+NP editor VP are  provided  with  NP system
+NP page VP includes  NP red
+NP page VP includes  NP document
+NP law VP govern  NP EPA
+NP policy VP govern  NP EPA
+NP policy VP are  contained  in  NP FIFRA
+NP policy VP govern  NP EPA
