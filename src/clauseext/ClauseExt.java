@@ -44,13 +44,7 @@ public class ClauseExt {
                 }
                     
                     String s1= "data/"+args[0];
-             //     String s1= "data/corpus_computer.txt";
-        
-                //String s2="data/concept_pairs_comp.txt";
-         //        String s2="data/"+args[1];
-      //              String s2="data/concept_pair.txt";
-                 
-          //         String s4="result/temp/cansentcm.txt";
+             
                      
             String concept1,concept2, line1;
        //     cansent cs=new cansent();
