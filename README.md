@@ -1,7 +1,7 @@
 1. To execute in command prompt with a jar file, 
      a. Download stanford-corenlp-2012-07-06-models.jar into /lib using the below link
         https://github.com/evandrix/stanford-corenlp/raw/master/stanford-corenlp-2012-07-06-models.jar
-     b. run the command 
+     b. Run the command 
           java –jar ClauseExt.jar in.txt out.txt
 2. To use the source
    a. Software Required: edu.mit.jwi_2.1.4.jar
