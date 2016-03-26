@@ -1,6 +1,6 @@
 # Code for extracting clauses from complex sentences
 
-1. To execute in command prompt with a jar file, 
+### 1. To execute in command prompt with a jar file, 
 
      a. Download [stanford-corenlp-2012-07-06-models.jar](https://github.com/evandrix/stanford-corenlp/raw/master/stanford-corenlp-2012-07-06-models.jar) into */lib* folder.
  
@@ -8,7 +8,7 @@
    
      `java –jar ClauseExt.jar in.txt out.txt`
 
-2. To use the source
+### 2. To use the source
  
   a. Software Required:
 
