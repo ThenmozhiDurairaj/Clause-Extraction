@@ -6,7 +6,7 @@
  
      b. Run the command:
    
-     		java –jar ClauseExt.jar data/in.txt result/out.txt
+     	java –jar ClauseExt.jar data/in.txt result/out.txt
 
 	Reverb data set
 
