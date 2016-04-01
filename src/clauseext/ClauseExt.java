@@ -43,6 +43,7 @@ public class ClauseExt {
                     System.out.println("args[" + i + "]: " + args[i]);}
                 }
                     
+<<<<<<< HEAD
                     //String s1= "data/"+args[0];
                     String s1= args[0];
              //     String s1= "data/corpus_computer.txt";
@@ -52,6 +53,10 @@ public class ClauseExt {
       //              String s2="data/concept_pair.txt";
                  
           //         String s4="result/temp/cansentcm.txt";
+=======
+                    String s1= "data/"+args[0];
+             
+>>>>>>> 0f14fcd8d15e1c09ecd2f4227b91c4b7bcbc88f5
                      
             String concept1,concept2, line1;
        //     cansent cs=new cansent();
@@ -62,8 +67,12 @@ public class ClauseExt {
             
             //String s5="result/temp/rellabel.txt";
             
+<<<<<<< HEAD
             //String s5="result/"+args[1];
             String s5=args[1];
+=======
+            String s5="result/"+args[1];
+>>>>>>> 0f14fcd8d15e1c09ecd2f4227b91c4b7bcbc88f5
         //       String s5="result/out.txt";
            FileWriter fw=new FileWriter(s5);
             BufferedWriter bw=new BufferedWriter(fw); 

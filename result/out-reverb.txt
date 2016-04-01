@@ -1,0 +1,1226 @@
+NP organization VP were  required  to  tell  NP government
+NP they VP plan  to  continue  providing  NP insurance
+NP year VP raise  NP premium
+NP year VP raise  NP reduce
+NP yield VP was  at  NP percent
+NP price VP is  NP 70.00
+NP party VP boycotted  NP poll
+NP name VP was  NP challenger
+NP hour VP are  NP a.m.
+NP ? VP seemed  NP the
+NP ? VP had  NP siesta
+NP he VP believed  to  be  NP a
+NP facility VP not  in  NP service
+NP that VP affect  NP weather
+NP globe VP is  NP event
+NP bluster VP not  come  NP close
+NP super-hype VP preceding  NP it
+NP ? VP living PRT up  to  NP super-hype
+NP 7 VP has  eased PRT up  on  NP rule
+NP he VP has  eased PRT up  on  NP rule
+NP Jake VP decides  to  give  NP Melanie
+NP she VP giving  NP he
+NP she VP giving  NP else
+NP she VP grew PRT up  with  NP megadose
+NP film VP is ADJP exaggerated  as  NP stuff
+NP Sather VP sits  above  NP ice
+NP he VP could  notice  NP netting
+NP percent VP went  to  NP Europe
+NP percent VP went  to  NP region
+NP announcement VP was  NP step
+NP he VP hoped  NP announcement
+NP Sabri VP said  NP he
+NP he VP left  NP building
+NP yield VP provided  NP support
+NP ? VP loved  NP show
+NP ? VP gave PRT up  NP goal
+NP they VP recovered  to  win  NP match
+NP they VP are  salting  NP money
+NP they VP have  NP stuff
+NP consumer VP have  decided  NP they
+NP he VP said  might  be SBAR that  NP consumer
+NP ? VP spending  NP it
+NP Seattle VP to  climb PRT back  into  NP game
+NP inning VP enabling  NP Seattle
+NP he VP threw  NP inning
+NP season VP worried  about  NP future
+NP programmer VP enter  NP season
+NP they VP entered  NP season
+NP but SBAR before  have QP many  of  NP they
+NP Janeiro VP not  for  NP comment
+NP output VP was  reduced  in  NP 1996
+NP furnace VP killing  NP worker
+NP Program VP should  meet  NP need
+NP Esaka VP will  quit  to  take  NP responsibility
+NP executive VP will  quit  to  take  NP responsibility
+NP act VP to  follow  said  NP Brown
+NP London VP was  among  NP crowd
+NP disorder VP stems  from  NP dysfunction
+NP ? VP say  NP disorder
+NP 25 PP on  NP turn
+NP ? VP took  NP interception
+NP Moon VP pass  by  NP Woods
+NP overtime VP to  set PRT up  NP game-winner
+NP she VP would  concern  NP herself
+NP those ADJP willing  to  help  NP than
+NP we VP are  going  to  have  to  do  NP it
+NP we VP see  fit  said  NP Brown
+NP hearing VP to  consider  NP legislation
+NP Congress VP holds  NP hearing
+NP i VP smoke  NP one
+NP ve VP been  NP year
+NP ve VP been  NP it
+NP ? VP been  NP time
+NP 32 NP conglomerates  like  NP Viacom
+NP 32 NP conglomerates  like  NP Corp.
+NP ? VP have  bumped PRT up  against  NP limit
+NP Holloman VP looks  like  NP tomboy
+NP role VP suggest  with  NP eye
+NP role VP suggest  with  NP drawl
+NP he VP died  to  NP hospital
+NP 96 30\/32 VP pushing  NP yield
+NP to VP 6.61  NP percent
+NP it VP begins  NP life
+NP Part VP is  caused  by  NP cynicism
+NP `` VP deserve  NP consideration
+NP law VP were  in  NP place
+NP . VP is  NP sponsor
+NP asylum VP said  NP Diaz-Balart
+NP they VP applied  for  NP asylum
+NP legislation VP would  change  NP law
+NP defender VP were  trying  to  overcompensate  for  NP lack
+NP assignment VP to  attempt  NP play
+NP ? VP leaving  NP assignment
+NP reality VP make  NP vehicle
+NP he VP stood  among  NP dozen
+NP he VP stepped PRT out  of  NP Mercedes
+NP all VP staring  at  NP smoke
+NP all VP staring  at  NP flame
+NP Giorgio VP began  getting  NP headache
+NP concert VP will  be  NP a
+NP ? VP presented  at  NP Workshop
+NP employee VP receives  NP kind
+NP it VP not  specify  NP which
+NP committee VP is  planning  to  hear  from  NP he
+NP scandal VP has  forced  NP resignation
+NP government VP had  failed  ``  apply  NP rule
+NP court VP to  establish SBAR whether  NP government
+NP it VP wanted  NP court
+NP it VP said  NP it
+NP he VP knows  NP importance
+NP Calcavecchia VP plays  NP Friday
+NP Americans VP have  NP history
+NP ? VP starting SBAR because  NP Americans
+NP Griese VP pass  for  NP play
+NP side VP caught  NP Griese
+NP side VP glided  to  NP right
+NP ? VP had  lined PRT up  on  NP side
+NP touchdown VP put  NP Michigan
+NP Darwin VP had  written  in  NP 1872
+NP ? VP are  learned  through  NP culture
+NP Service VP has  filed CC or  will  file  NP follow
+NP ? VP were  NP member
+NP Arafat VP know  in  NP meeting
+NP Fatah VP let  NP Arafat
+NP they VP intended  to  vote  against  NP he
+NP SRX VP will  become  NP entrant
+NP auto VP shows  NP SRX
+NP suv VP shown  at  NP auto
+NP 54 VP Inspired  by  NP suv
+NP Lincoln VP is  about  to  add  NP aviator
+NP way VP to  get  NP across
+NP ? VP 55  NP it
+NP ? VP kept  selling PRT off  NP stock
+NP Better ADVP yet  NP Miller
+NP Better ADVP yet  NP Oswalt
+NP ? VP have  won  NP decision
+NP ? VP have  won  NP since
+NP they VP re  NP 21-1
+NP Inc. VP ended  NP relationship
+NP AG VP terminating  NP agreement
+NP Organogenesis VP to  file  for  NP protection
+NP move VP will  lead  NP Organogenesis
+NP Congress VP to  estimate  NP cost
+NP Committee VP released  NP report
+NP Monday VP putting  NP tag
+NP those VP DAYS  NP out
+NP ? VP retired  in  NP 1977
+NP Inc. VP agreed  to  buy  NP Co.
+NP debt ADVP nearly  doubling  NP Florida
+NP debt ADVP nearly  doubling  NP business
+NP ? VP making  NP it
+NP she VP began  NP career
+NP this VP leads  to  NP :
+NP president VP reads  NP bioscope
+NP president VP reads  NP i
+NP Wales VP died  appeared  on  NP page
+NP Hooters VP owns  operates CC or  franchises QP 192  of  NP restaurant
+NP 12 VP run  by  NP Inc.
+NP surf VP to  build PRT along  NP part
+NP Edouard VP will  meander QP 125 NNS miles IN off  NP surf
+NP drill VP has  NP chuck
+NP ? VP drilling  NP nonslip
+NP ? VP drilling  NP hole
+NP body VP to  provide  NP grip
+NP ? VP texturing PRT over  NP body
+NP six VP were CC and  NP whereabouts
+NP ? VP faced  NP Everett
+NP he VP had  NP cancer
+NP Rhodes VP discovered  NP he
+NP he VP felt  NP pain
+NP Graham VP threw  NP pass
+NP seconds VP left  on  NP field
+NP art VP sounds  NP highfalutin
+NP web VP to  create  NP art
+NP Tyson VP having  disappeared  of  NP sleight
+NP he VP must  turn  in  NP direction
+NP ? VP knows  NP he
+NP he VP been  seeking  for  NP year
+NP he VP wants  NP payday
+NP DeLillo VP has  described  NP explosion
+NP connection VP spawned  by  NP web
+NP family VP replaced  by  NP bloodless
+NP tie VP replaced  by  NP bloodless
+NP 75 VP Continuing  to  maintain  NP innocence
+NP stem PP from  NP dissatisfaction
+NP stab VP was  to  NP plan
+NP Salim VP said  NP stab
+NP revenue VP will  fall SBAR as  NP growth
+NP cut VP will  be CC or WHAD where  NP they
+NP ie VP said  specifying WHADJP big  NP cut
+NP government VP will  reduce  NP spending
+NP leadership VP give  NP it
+NP group VP attacks  on  NP leadership
+NP i VP showed  NP he
+NP i VP felt  NP movie
+NP protein VP is  known  to  work  as  NP switch
+NP process VP called  NP transactivation
+NP cc VP switching  on  NP gene
+NP accord VP would  reduce  NP number
+NP they VP believed  NP accord
+NP week VP said  NP they
+NP adult VP surveyed  NP week
+NP teen-ager VP begin  NP smoking
+NP ? VP is  dominated  by  NP rotunda
+NP company VP have  been  in  NP business
+NP Calcavecchia VP has  looked  NP steady
+NP ? VP rose  NP 2.50
+NP worker VP clear  NP rubble
+NP building VP has  been  NP renovate
+NP building VP has  been  NP site
+NP embassy VP has  been  turned  into  NP park
+NP even NP rate  of  NP start
+NP ? VP remains  to  NP high
+NP ? VP recorded  in  NP 1996
+NP 1996 PP according  NP to
+NP Sikes VP should  apply  for  NP compensation
+NP jet VP used  NP alignment
+NP alignment PP including  NP one
+NP Abraham VP lined PRT up  on  NP side
+NP Abraham VP lined PRT up  on  NP Lewis
+NP Ellis VP lined PRT up  on  NP side
+NP Ellis VP lined PRT up  on  NP Lewis
+NP ? VP rushed  from  NP other
+NP department VP has  increased  NP number
+NP without VP admitting  NP error
+NP it VP not  take  NP long
+NP she VP sought PRT out  NP untouchable
+NP society VP touched  NP they
+NP she VP touched  NP they
+NP 93 VP can  venture PRT out  NP yard
+NP 93 VP can  venture PRT out  NP still
+NP ? VP find  NP water
+NP 94 VP Died  on  NP in
+NP Farris VP was  replaced  by  NP Long
+NP ? VP played  in  NP opener
+NP pilot VP have  NP pension
+NP automaker VP have  taken  NP some
+NP ? VP to  be  NP best-seller
+NP 98 VP Following  are  NP excerpt
+NP ? VP is  NP member
+NP `` NP God  had  NP plan
+NP ? VP to  be  NP around
+NP who VP has  NP wife
+NP while VP said  NP Johnson
+NP 99 VP fill PRT out  NP questionnaire
+NP 99 VP fill PRT out  NP you
+NP 99 VP Type  in  NP code
+NP ? VP ll  get  NP side-by-side
+NP he VP was  denied  NP cut
+NP million VP claiming  NP he
+NP he VP sued  for  NP million
+NP example VP is  feuding  with  NP Disney
+NP air VP is  pumped PRT back  to  NP blade
+NP order VP to  cool  NP blade
+NP 102 VP NYT  NP Service
+NP Med VP fills  NP time
+NP it VP may  be  NP sign
+NP it VP time  for  NP moratorium
+NP ? VP rose  NP percent
+NP 64 VP rose  NP point
+NP bsa VP seized  NP item
+NP law VP said  NP many
+NP who VP sponsored  NP law
+NP . VP c.  NP Ammiano
+NP problem VP were  NP matter
+NP ? VP getting  NP up
+NP everyone VP reverted  to  NP duty
+NP firm VP have  contributed QP million  to  NP Clark
+NP foundation VP controlled  by  NP firm
+NP who VP consider  NP journalism
+NP ? VP are  NP soul
+NP blend VP is  weighted  toward  NP expedience
+NP some VP think  NP blend
+NP company VP have  rebounded  after  NP year
+NP performance PP to  NP rest
+NP question VP please  NP McBee
+NP question VP please  NP Spence
+NP you VP have  NP question
+NP caulking VP be  done  at  NP time
+NP we VP must  continue  to  lead  by  NP example
+NP cost VP JUDY  NP FRIEDMAN
+NP legislation VP would  allow  NP savings
+NP expense PP including  NP tuition
+NP dollar VP fell  against  NP yen
+NP dollar VP fell  against  NP mark
+NP ? VP making  NP it
+NP currency VP to  buy  NP metal
+NP investor VP using  NP currency
+NP Solutia VP is  saddled  with QP billion  in  NP debt
+NP strike VP involve  NP store
+NP strike VP involve  NP Food
+NP reason VP to  hope : :  NP strike
+NP situation VP offer  NP reason
+NP ? VP began  in  NP October
+NP ? VP began  in  NP both
+NP ? VP have  been  mediated  by  NP official
+NP three VP were  apprehended  NP Sunday
+NP ? VP 119  NP the
+NP those VP charged  with  NP solve
+NP he VP noted  are  NP usually
+NP there VP should  be QP cups NNS vegetables  chopped  NP fine
+NP Lee VP is  set  to  debut  in  NP June
+NP cc VP not  sign  NP extension
+NP ? VP extended  NP year
+NP ? VP becoming  NP agent
+NP stock VP were SBAR after  NP report
+NP strength VP squelching  NP hope
+NP goods VP showed  NP strength
+NP rally VP could  boost  NP share
+NP profit VP has  forced  NP expectation
+NP growth VP has  forced  NP expectation
+NP week VP huddled  in  NP negotiation
+NP executive VP spent  NP day
+NP edit VP to  replace  NP Cudaback
+NP they VP named  NP editor
+NP gift VP is  to  integrate  NP character
+NP they VP emerge  from  NP it
+NP ? VP keep  NP cat
+NP Airlines VP is  to  name  NP Tilton
+NP morning PP according  to  NP people
+NP it VP will  increase  NP tax
+NP `` VP not  for  NP development
+NP ? VP to  lower  NP import
+NP Suydam VP writes  for  NP American-Statesman
+NP they VP accept  NP responsibility
+NP who VP did  NP year
+NP i VP was  says  NP steer
+NP ? VP running PRT away  to  NP York
+NP he VP bunked  with  NP member
+NP he VP had  worked  for  as  NP stagehand
+NP glamour VP has  been  NP exaggerate
+NP order VP will  be ADJP stronger  than  NP growth
+NP ? VP forecast  NP government
+NP family VP are  grappling  with WHAD how  NP site
+NP ? VP became  NP the
+NP ? VP shed  NP pound
+NP ? VP 137  with  NP determination
+NP ? VP 138  Born  in  NP City
+NP she VP returned  with  NP mother
+NP he VP was  with  NP incentive
+NP Gainey VP said  NP he
+NP Gurney VP boosts  NP Gainey
+NP i VP am  having  NP bathtub
+NP 1907 VP DEVILED  NP Cut
+NP Fowler VP resented  NP authority
+NP Fowler VP resented  NP testimony
+NP ? VP affirms SBAR that  NP Ickes
+NP person VP knows  NP story
+NP campaign PP including  NP role
+NP Netscape VP is  aiming  to  distribute QP million NNS copies  of  NP Navigator
+NP partner PP including  NP provider
+NP partner PP including  NP Robotics
+NP Netscape VP sell  NP package
+NP navigat VP helps  NP Netscape
+NP cancer VP make PRT up  NP percent
+NP discussion VP lit  NP flame
+NP he VP not  fool  NP I
+NP cyclone VP are  called AD just `` ``  NP cyclone
+NP cyclone VP born  over  NP Pacific
+NP flo VP will  be  NP sea
+NP Inc. VP promotes  NP Fridays
+NP rate VP was  from  NP yesterday
+NP i VP might  have  argued  for  NP arrangement
+NP i VP know  NP i
+NP i VP known WHNP what  NP i
+NP 150 VP Had  NP i
+NP Kors VP used  NP silk
+NP administration VP wished  to  support  NP something
+NP i VP was  getting  at CC or SBAR so  NP he
+NP he VP not  understand WHNP what  NP i
+NP we VP get  NP digression
+NP Alamos VP set PRT up  at  NP Livermore
+NP lab VP set PRT up  at  NP Livermore
+NP he VP was  in  NP Atlanta
+NP Hawks VP released  NP he
+NP he VP could  sign  NP deal
+NP he VP led  to  NP championship
+NP term VP bandied  by  NP designer
+NP moment VP to  use  NP term
+NP 156 VP does  NP moment
+NP excess VP rendered  in  NP lace
+NP share VP have  outperformed  NP those
+NP opportunity VP to  buy  NP temporarily
+NP investor VP to  look  for  NP opportunity
+NP they VP expect  NP investor
+NP trader VP said  NP they
+NP Hayden VP said  NP Sunday
+NP senat VP was  looking  at  NP area
+NP legislation PP including  NP clarification
+NP law VP dealing  with    trespassing
+NP law VP dealing  with  NP stalk
+NP Boselli VP would  have  NP procedure
+NP ? VP not  count PRT on  was SBAR that  NP Boselli
+NP he VP became  NP Texan
+NP ? VP stay  in  NP marriage
+NP they VP are CC or  afraid  of  NP unknown
+NP smile VP had  receded CC and  NP tone
+NP Ltd. VP was  rated S ``  buy  in  NP coverage
+NP people VP to  come  NP talk
+NP they VP sweet-talked  cajoled CC and  begged  NP people
+NP ? VP said  is WHNP what  NP many
+NP pow VP would  like  NP more
+NP convention VP ``  NP he
+NP Forbes VP speak  at  NP convention
+NP Miami VP heard  NP Forbes
+NP harassment VP crashed  NP car
+NP driver VP trying  to  avoid  NP harassment
+NP couple VP was  riding  in  NP Mercedes-Benz
+NP they VP want  NP news
+NP they VP are  investigating  NP trading
+NP exchange VP declined  to  say SBAR whether  NP they
+NP starter VP try  NP Internet
+NP Indonesia VP will  lower  NP tariff
+NP goods VP used  to  make  NP export
+NP suit VP filed  on  NP behalf
+NP Summit VP committed  NP piracy
+NP Inc. VP alleged  NP Summit
+NP enough VP to  protect  NP they
+NP government VP had  done  NP enough
+NP Americans VP said  NP government
+NP : ADVP just  NP two-fifth
+NP ? VP are  NP number
+NP Inc. VP provides  NP information
+NP Inc. VP provides  NP news
+NP net VP to  find  NP it
+NP user VP to  surf  NP net
+NP than VP requiring  NP user
+NP he VP must  find  NP consistency
+NP Bryant VP is CC but  NP he
+NP temperature VP can  vary QP 10 NNS degrees  NP fahrenheit
+NP Airports VP act  `  NP island
+NP Rams VP miss  departed  NP receiver
+NP they VP surrendered  deciding  NP goal
+NP Senate VP sponsored  by  NP Mack
+NP bill VP is  pending  in  NP Senate
+NP tayl VP missed  NP day
+NP she VP could  move  NP head
+NP ? VP lift  NP up
+NP you VP can  buy  NP quart
+NP store VP ll  cost  NP you
+NP it VP ll  cost  NP you
+NP it VP be  NP force
+NP force VP is  let  NP it
+NP who VP want  NP world
+NP ? VP supported  by  NP all
+NP grant VP announced  NP today
+NP state VP can  use  NP grant
+NP counseling VP will  promote  NP housing
+NP that VP will  promote  NP housing
+NP 185 VP would  be  NP revolutionary
+NP 185 VP Come  to  think  of  NP it
+NP ? VP will  develop  NP cancer
+NP cancer VP has  for  NP child
+NP adult ADVP even  for  NP those
+NP he VP calculates  NP cost
+NP Financial VP was  formed  by  NP Hoffenberg
+NP reason VP to  depend  on  NP check
+NP possibly VP giving  NP reason
+NP people VP had  thought  NP possibly
+NP it VP is ADJP larger SBAR than  NP people
+NP it VP can  maintain CC and VB expand  NP net
+NP Chatty VP was  interviewed  by  NP police
+NP Aftonbladet VP said  NP Chatty
+NP she VP was  looking  NP forward
+NP she VP said  NP she
+NP ? VP returning  to  NP Texas
+NP Chiefs VP had  to  overcome  NP deficit
+NP Chiefs VP had  to  overcome  NP 17-14
+NP ? VP to  get  to  NP point
+NP ? VP Seahawks  NP advantage
+NP ? VP rang  NP bell
+NP you VP ll  find  NP condition
+NP you VP want  to  take  NP dip
+NP ? VP have  raised  NP price
+NP retail PP according  to  NP Black
+NP it VP was  NP Tuesday
+NP there VP is  escaping  NP fact
+NP emotion VP have  been  shaped  by  NP encounter
+NP effort VP to  prevent  NP existence
+NP ? VP represents  NP year
+NP Diana VP raised  NP consciousness
+NP Inc. VP founded  NP chain
+NP ? VP are  trying  to  shut PRT down  have  joined  NP other
+NP ? VP are  trying  to  shut PRT down  have  joined  NP Bravo
+NP producing VP producing  NP announcement
+NP Charlene VP looked  after  NP other
+NP Mackovic VP could  prove  NP painful
+NP Mackovic VP is  presented  with  NP reversal
+NP ? VP played PRT out  to  NP hilt
+NP calendar VP is  NP dinner
+NP Next PP on  NP calendar
+NP it VP has  kept  about  NP percent
+NP Express VP said  NP it
+NP ? VP 205  NP Express
+NP it VP gained  during  NP strike
+NP Koplovitz VP would  remain  as  NP chairwoman
+NP Rubin VP tours  NP China
+NP figure VP protect  NP grave
+NP ? VP 208  NP spread
+NP note VP was  NP point
+NP country VP returning  to  NP official
+NP ? VP traveled  around  NP country
+NP ? VP deter  NP refugee
+NP ? VP returning  NP home
+NP quality VP transcended  NP fashion
+NP most VP were  dragged PRT off  NP instantly
+NP Congress VP took PRT up  NP issue
+NP public VP was  fed PRT up CC and SBAR as  NP Congress
+NP question VP seemed  to  be  NP timing
+NP reform VP could  be  enacted  before  NP election
+NP month VP was  viewed  as  NP comeback
+NP Carey VP casts  NP doubt
+NP turmoil VP surrounding  NP Carey
+NP campaign VP begins  NP week
+NP subject VP was  NP -
+NP ? VP 215  NP subject
+NP Lakers VP open  NP camp
+NP ? VP was  ZZZZ  NP best
+NP brewer VP said  NP improvement
+NP volume VP led  by  NP Guinness
+NP performance VP was  to  NP volume
+NP route VP declined  NP percent
+NP number VP rose  NP percent
+NP it VP was  diagnosed  by  NP pediatrician
+NP ? VP causes  NP it
+NP it VP was  NP area
+NP scene VP was  compared  with  NP mayhem
+NP ? VP 221  NP scene
+NP Koreans VP tried  to  enter  NP housing
+NP 222 VP Spurred  by  NP request
+NP yesterday VP looking  for  NP sprout
+NP store VP started  calling  NP supplier
+NP 223 VP not  let  NP substitute
+NP ? VP has  NP himself
+NP doct VP has  NP fool
+NP he VP was  in  NP Arabia
+NP mother VP said  NP he
+NP aide VP offered  NP retort
+NP accord VP was  reached  NP 20
+NP company VP got  NP boost
+NP Corp. VP gained  NP percent
+NP cost VP to  raise QP billion  for  NP buyback
+NP it VP cut  NP cost
+NP it VP will  sell  NP business
+NP ? VP announcing  NP it
+NP announcement VP came  NP day
+NP Koizumi VP marked  NP change
+NP negotiation VP pursued  with  NP Korea
+NP administration VP had  terminated  NP negotiation
+NP Clinton NP he  left  NP office
+NP have VP served  as  NP director
+NP Gibson VP is  NP chairman
+NP friend VP was  waiting  for  NP she
+NP he VP turns  in  NP way
+NP pulse VP start  jumping PRT around CC or  NP he
+NP pressure VP start  jumping PRT around CC or  NP he
+NP he VP runs PRT out  of  NP breath
+NP he VP is  improving S but  NP then
+NP he VP thinks  NP he
+NP ? VP was  among  NP leader
+NP product VP improves  NP percent
+NP product VP to  link  NP computer
+NP it VP introduced  NP product
+NP ba VP saw  NP number
+NP 1997 VP helped  by  NP campaign
+NP 1997 VP helped  by  NP introduction
+NP official VP trying  to  wrest  NP concession
+NP ? VP had  been  talking  to  NP official
+NP violence VP will  pressure  NP Israel
+NP it VP captured  in  NP war
+NP Heights VP land  NP it
+NP ? VP relinquishing  NP Heights
+NP he NP medicine  to  help  NP he
+NP he VP had  NP asthma
+NP education VP began  appearing  in  NP California
+NP education VP are  modeled  on  NP those
+NP ? VP limited  NP tax
+NP ? VP wants  to  erect  NP theater
+NP ? VP wants  to  erect  NP in
+NP competition VP to  choose  NP developer
+NP they VP make S ``  Alabama  NP a
+NP ? VP provided  NP you
+NP Jewel VP starts  NP singing
+NP who VP were  murdered  within  NP month
+NP claim PP including  NP Jews
+NP ? VP died  at  NP Majdanek
+NP it VP could  be  destroyed CC or VBN taken  NP away
+NP shock VP to  discover SBAR that  NP it
+NP it VP not  such  NP shock
+NP it VP is  to  believe  NP it
+NP it VP was  NP it
+NP it VP was  NP force
+NP Selig VP will  have  to  overcome  NP feeling
+NP ? VP 243  To  do  NP so
+NP ? VP 244  NP disturbance
+NP Gulf VP will  promote  NP shower
+NP Woodson VP kept  NP Chiaverini
+NP ? VP looked  at  NP ?
+NP place VP adorned  with  NP Madonnas
+NP Bensonhurst VP is  NP neighborhood
+NP yard VP snapping  over  NP door
+NP flag VP snapping  over  NP door
+NP Weinberg VP came  to  NP he
+NP he WHADVP when  NP Weinberg
+NP airline VP offered  NP price
+NP ? VP seizing  NP power
+NP you VP can  look PRT up  NP carrier
+NP ? VP were  NP moment
+NP shareholder VP is  suing  NP Inc.
+NP it VP was  in  recommending  NP offer
+NP ? VP claiming  NP it
+NP they VP smoke  NP brisket
+NP they VP fire PRT up  NP pit
+NP impetus VP to  take  on  NP Ruiz
+NP decision VP will  give  NP Jr.
+NP Ruiz VP hopes  NP decision
+NP winner VP would  fight  NP winner
+NP Grbac VP wore  NP look
+NP guy VP was  given  NP gift
+NP Turnout VP was  according  to  NP report
+NP Willi VP declined  to  comment  on  NP talk
+NP ? VP did  NP spokesman
+NP staff VP have  NP program
+NP they VP ll  get  upon  NP retirement
+NP he VP moved  NP Pettibone
+NP ? VP 260  NP he
+NP Stars VP have  NP plan
+NP place VP awards  NP bonus
+NP photographer VP chased  NP Diana
+NP photographer VP chased  NP companion
+NP ? VP leaving  NP hotel
+NP right VP to  vote CC and  NP integrity
+NP action VP to  protect  NP right
+NP the VP need  for  NP action
+NP election VP not  have  been  NP clearer
+NP berry VP stained  NP they
+NP berry VP soaked  in  NP sauce
+NP liquid VP are  lined PRT up  beside  NP berry
+NP strawberry VP soaked  in  NP liquid
+NP ? VP told  NP Subcommittee
+NP enforcement VP to  combat  NP criminal
+NP key VP are  needed  by  NP enforcement
+NP restriction VP are  needed  by  NP enforcement
+NP he VP understands  NP end
+NP want VP to  make  NP most
+NP career VP is  in  NP sight
+NP he VP has  encouraged  NP couple
+NP he VP took  to  NP idea
+NP Il VP satisfied  NP demand
+NP woman VP emerged  in  NP chador
+NP black VP standing CC and  gazing AD mutely  at  NP audience
+NP warehouse VP rose  NP ounce
+NP exchange VP said  in  NP report
+NP 1998 VP is ADJP likely  to  be AD earlier VBN forecast : --  NP percent
+NP IMF VP estimated  in  NP May
+NP legislation VP achieved  NP number
+NP Keeper VP said  NP legislation
+NP activist VP said  NP legislation
+NP country VP can  cut  NP benefit
+NP worker VP to  fend  for  NP themselves
+NP joblessness VP is  rising CC and  leave  NP worker
+NP damages VP will  cost  NP money
+NP policy VP to  determine SBAR whether  paying  for  NP damages
+NP he VP analyzes  NP policy
+NP agent VP said  NP he
+NP driver VP is  NP agent
+NP ? VP paying  NP increase
+NP some VP grew PRT out  of  NP fear
+NP Europe VP controlled  NP outlet
+NP Asia VP controlled  NP outlet
+NP he VP was  by  NP speech
+NP he VP made  NP program
+NP Riley VP begged  to  go PRT along  for  NP ride
+NP Snyder VP had  to  hurry  to  NP airport
+NP he VP learned  NP Snyder
+NP we VP are  looking  for  NP ground
+NP Hatley VP created  NP garden
+NP that VP turned  NP stage
+NP collaborator VP may  leave  NP mark
+NP many VP have  about  NP government
+NP many VP have  about  NP politician
+NP part VP is  contained  in  NP so
+NP ? VP 281  NP week
+NP ? VP was  in  NP scandal
+NP eligibility VP to  run  in  NP --
+NP aide VP leaving  in  NP doubt
+NP resign VP leaving  in  NP doubt
+NP ? VP 282 LST .  NP np
+NP SOUL VP compiled  by  NP nn
+NP owner VP not  read  NP act
+NP ? VP can  NP ?
+NP they VP re  in  NP credit
+NP Bush VP instructed  NP Secretary
+NP resolution VP would  amount  to  NP ultimatum
+NP diplomacy VP aimed  at  NP craft
+NP Powell VP to  begin  NP diplomacy
+NP hulk VP based  on  NP book
+NP film VP ``  NP hulk
+NP ability VP to  morph  into  NP being
+NP experiment VP goes  is  afflicted  with  NP ability
+NP government VP will  liquidate  NP bank
+NP that VP fails  NP government
+NP Gallery VP is  located  in  NP e-13
+NP ? VP trading  NP Hernandez
+NP Diego VP acquired  NP Barrett
+NP player VP to  be  named  NP later
+NP Texans VP are  about  NP brisket
+NP Offensive VP linemen S ``  NP Texans
+NP Hoffenberg VP was  sentenced  in  NP March
+NP jail VP to  pay QP million  in  NP restitution
+NP jail VP to  pay QP million  in  NP a
+NP order VP to  pay QP million  in  NP restitution
+NP order VP to  pay QP million  in  NP a
+NP defraud VP defrauding  NP holder
+NP it VP was  NP leader
+NP company VP said  NP it
+NP Adecco VP was  formed  NP company
+NP ? VP make PRT up  NP percent
+NP market PP including  NP --
+NP Indy VP had  ``  NP hot
+NP Indy VP had  ``  NP nervous
+NP seem VP to  be  like  NP that
+NP but VP added : ``  NP she
+NP ? VP integrating  NP Robotics
+NP ? VP integrating  NP introduction
+NP product VP will  boost  NP margin
+NP product VP will  boost  NP sale
+NP ? VP said  NP Meeks
+NP ? VP represent  NP viewpoint
+NP Computer VP said  NP it
+NP million ADJP outstanding  as  NP of
+NP prisoner VP was  released  in  NP 1988
+NP do VP look  at  NP I
+NP ? VP not  release  NP name
+NP thing VP could  have  been  said  in  NP Tennessee
+NP thing VP could  have  been  said  in  NP Pittsburgh
+NP 300 VP Moving  in  NP category
+NP trouble VP telling  NP people
+NP cigarette VP have  NP trouble
+NP who VP have  been  campaigning  against  NP cigarette
+NP Boruchin VP ``  NP zealot
+NP week VP is  to  NP health
+NP themselves VP struggling  to  find  NP home
+NP ? VP found  NP themselves
+NP ? VP scrambled  to  recruit  NP parent
+NP child VP suffering  from  NP disorder
+NP who VP Mistook  NP Wife
+NP Oliver VP ``  NP man
+NP piece VP sell  in  NP the
+NP ? VP 304  NP piece
+NP ? VP said  NP Rizzuto
+NP store VP to  feature  NP Mint
+NP Home VP was  NP store
+NP ? VP burned  NP flag
+NP market VP rose  NP percent
+NP figure VP released  NP Wednesday
+NP month PP according  to  NP figure
+NP -- VP have  been  among  NP the
+NP Martinez VP have  had  NP problem
+NP McLemore VP have  had  NP problem
+NP ? VP 308  NP yield
+NP bond VP is  NP little
+NP ? VP percent  NP year
+NP year PP according  NP to
+NP he VP was  derided  by  NP scientist
+NP scientist PP including  NP Mead
+NP expression VP are CC or  learned  NP scientist
+NP Ekman VP set PRT out  to  determine SBAR whether  NP expression
+NP East VP is  NP impulse
+NP hatred VP has  been  directed  at  NP America
+NP ? VP say  apply  to  NP man
+NP status VP is  NP source
+NP company VP is SBAR that  NP status
+NP ? VP to  NP outsider
+NP service VP increases  NP competition
+NP 315 VP Led  by  NP Hands
+NP unit VP has  completed QP billion  in  NP securitization
+NP 1995 PP including  NP the
+NP pub VP chain  NP Nomura
+NP he VP said  keeping  NP she
+NP ballot VP was  NP part
+NP effort VP to  promote  NP emergence
+NP leader VP accuse  NP he
+NP manipulation VP to  protect  NP hold
+NP join VP Joining  NP NFL
+NP Browns VP proved  NP themselves
+NP there VP has  been  NP apology
+NP that VP pose  NP challenge
+NP it VP is  NP issue
+NP Story VP Filed  By  NP Newspapers
+NP percent VP were  from  NP 2000
+NP ? VP 321  NP notoriety
+NP actress VP will  promote  NP actress
+NP general VP says  NP Hernandez
+NP they VP not  feel  NP pain
+NP U.S. VP may  change  NP policy
+NP remark VP prompt  NP speculation
+NP Hose VP contracted  NP anthrax
+NP ? VP handling  NP mail
+NP plan VP to  combat  NP rage
+NP ? VP launch  NP plan
+NP Jordan VP speaks  on  NP money
+NP Jordan VP speaks  on  NP policy
+NP event VP rocked  NP game
+NP event VP fizzled  after  NP bombing
+NP 329 ADVP there  is  NP concern
+NP earthquake VP could  leading  to  NP mud-slide
+NP earthquake VP could  leading  to  NP problem
+NP Colombia PP according  to  NP Fallar
+NP hope VP accompany  NP transition
+NP 331 VP Born  in  NP 1912
+NP Boerne VP paid  NP 525
+NP ? VP retails  at  NP new
+NP memory VP was  NP better
+NP ? VP is  based  on  NP work
+NP Harvard VP studies  NP regeneration
+NP it VP not  pull PRT out  of  NP Lebanon
+NP Israel VP has  said  NP it
+NP it VP gains  NP treaty
+NP tree VP to  be  NP disperser
+NP finding VP revealed  NP tree
+NP he VP left  NP Ramirez
+NP Little VP said  NP he
+NP slugger VP apologized  to  NP everybody
+NP Cardinals VP considered  drafting  NP Alstott
+NP he VP paid  NP 350,000
+NP 1990 ADVP thoroughly  remodeled  NP it
+NP ? VP appears  to  be  NP motivate
+NP he VP been  in  NP time
+NP Chinese VP are  firing QP eight CC or CD million NNS workers  NP year
+NP enterprise VP not  have  NP -
+NP worker VP not  have  NP -
+NP executive VP misled  NP investor
+NP investigator VP are  looking  into SBAR whether  NP executive
+NP prospects VP said  NP Frankel
+NP group VP publish  NP release
+NP group VP publish  NP study
+NP rage VP to  make  NP case
+NP ? VP using  NP rage
+NP Revolution VP been  involved  in  NP streak
+NP streak PP including  NP game
+NP ? VP had  NP streak
+NP they VP appeared  to  lose  NP faith
+NP ? VP to  hear  NP many
+NP it VP climbed  over  NP lot
+NP they VP tell  NP it
+NP terrain VP to  get  NP there
+NP 347 VP Playing  before  NP crowd
+NP Army VP jumped  to  NP lead
+NP drive VP culminated  in  NP leap
+NP possession VP covering  NP in
+NP Inc. VP releases  NP survey
+NP Co. VP started  NP year
+NP Co. VP has  NP executive
+NP Illustrating VP Illustrating  NP point
+NP Iraq VP could  be  NP laboratory
+NP group VP furnishing  NP they
+NP f VP labeling  NP product
+NP Reilly VP ``  NP it
+NP Pecoriello VP did  NP Reilly
+NP ? VP to  count  on  NP success
+NP brand VP were  launched  NP summer
+NP ? VP 352  NP test
+NP water VP have  found  NP trace
+NP ? VP supervised  NP replacement
+NP ooze VP was  coming PRT out  of  NP side
+NP 1990 VP ``  NP ooze
+NP there VP were  NP pool
+NP 353 VP was  NP case
+NP he VP used  NP t-bone
+NP he VP used  NP then
+NP ? VP carved  NP steak
+NP sangue VP is  to  say  NP rare
+NP it VP was  cooked  al  NP sangue
+NP you VP like  to  eat  NP it
+NP you VP should  cook  NP steak
+NP ? VP 355  To  make  NP matter
+NP they VP bumped  into  NP other
+NP Little VP kept  NP Ramirez
+NP he VP should  have  benched  NP he
+NP game VP admitted  NP he
+NP later VP admitted  NP he
+NP some VP prompting  from  NP deposition
+NP Ickes VP was  NP chief
+NP staff VP had  NP voice
+NP ? VP directing  NP division
+NP invent VP has  won  NP patent
+NP method VP turn PRT out  to  be  NP elephant
+NP method VP ordered  online  NP when
+NP Stadium VP is  NP largest
+NP who VP are  at  NP fault
+NP he VP advises  NP client
+NP agent VP said  NP he
+NP injury VP to  inquire SBAR whether  NP resolution
+NP there VP are  NP injury
+NP rise VP was  NP the
+NP it VP went  from  NP testing
+NP panel VP not  NP reaction
+NP ? VP was  NP silence
+NP she VP was  NP anxious
+NP turn VP regrew  NP head
+NP turn VP named  for  NP serpent
+NP creature VP was  in  NP turn
+NP Hydra VP can  grow  NP whole
+NP Hydra VP is  named  after  NP creature
+NP ? VP being  sliced  in  NP half
+NP study VP point  to  NP exposure
+NP weinberg VP are  planning  to  expand  into  NP rack
+NP weinberg VP are  planning  to  expand  into  NP hook
+NP distributor VP signing  on  NP week
+NP there VP are  NP array
+NP managing VP managing  NP portfolio
+NP market VP affects  NP level
+NP it VP cut  in  NP half
+NP ? VP said  NP it
+NP student VP spend  NP estimate
+NP item VP ranging  from  NP jeans
+NP tuition VP to  mention  NP item
+NP not VP to  mention  NP item
+NP Holt VP might  be  NP the
+NP Bruce VP might  be  NP the
+NP Bank VP said  in  NP report
+NP CDs VP to  grow  by  NP percent
+NP it VP expects  NP CDs
+NP 60 ADVP also  expressed  NP frustration
+NP demographer VP have  been  :  NP decline
+NP census VP is  expected  to  confirm WHNP what  NP demographer
+NP result VP are  compiled  NP year
+NP ? VP TO  MIDNIGHT WHAD When  NP result
+NP demographer VP call  NP ``
+NP : VP may  be  NP movement
+NP what VP may  be  NP movement
+NP people NP Stalin  forced  NP relocation
+NP airline PP including  NP American
+NP percent VP said  NP it
+NP Ford VP plans  to  announce  NP move
+NP show VP is  scheduled  to  be  filmed  in  NP November
+NP MTV VP will  decide SBAR whether  to  ``  NP Stories
+NP skunk VP seemed  to  permeate  NP bus
+NP ie VP addressed  NP concern
+NP statement VP released  by  NP ie
+NP price VP is  NP 51.00
+NP grower VP to  trade  NP directly
+NP ? VP may  permit  NP grower
+NP maker VP authorized  by  NP exchange
+NP ? VP forced  to  deal  with  NP maker
+NP ? VP 385  NP close
+NP Tigrett VP lost  NP support
+NP company VP say  NP Tigrett
+NP company VP took  NP hit
+NP Ratner VP has  been  NP the
+NP he VP needs  NP approval
+NP they VP feel  NP nothing
+NP Forbes VP not  talk  NP much
+NP Forbes VP was  running  for  NP president
+NP you VP not  have  NP ?
+NP ? VP 390  NP book
+NP underworld VP is  to  become  NP text
+NP stock VP pushing  NP Russell
+NP stock VP pushing  NP Nasdaq
+NP stock VP slumped  NP stock
+NP : VP garnish  with  NP same
+NP : VP sprinkle  with  NP :
+NP : VP smooth  NP it
+NP student VP held  NP rally
+NP October VP reciting  NP Pledge
+NP Koizumi VP have  come  under  NP criticism
+NP ministry VP have  come  under  NP criticism
+NP ? VP promising  NP Korea
+NP they VP litter  NP road
+NP there VP is  NP ray
+NP resident VP called  NP Guantanamera
+NP confidence VP was  mirrored  in  NP interview
+NP ? VP 397  NP company
+NP 500 VP had  performed PRT best  NP year
+NP Dow VP had  performed PRT best  NP year
+NP average VP peaked PRT on  NP 6
+NP battle VP to  drag  NP the
+NP visionary VP struck PRT down  in  NP battle
+NP ? VP is  being  hailed SBAR as  NP visionary
+NP ? VP peaked  at  NP 293,000
+NP 1980 VP dropped  to  NP 49,533
+NP 1993 VP climbed  to  NP 135,907
+NP Lucas VP plays  NP nemesis
+NP to VP get  into  NP room
+NP people VP stood  in  NP line
+NP connection VP was  propping PRT up  NP price
+NP day VP to  get  NP ?
+NP i VP need  to  smoke  NP day
+NP ? VP rose  NP 5 1\/4
+NP ? VP rose  NP percent
+NP in NP trading  of  NP million
+NP 405 VP Remove  NP yolk
+NP he VP would  hold  NP Fargas
+NP Carroll VP said  NP he
+NP practice VP are  for  NP game
+NP practice VP to  make  NP sure
+NP i VP said  NP it
+NP i VP not  know WHAD why  NP i
+NP you VP know  NP you
+NP secretary VP `  NP you
+NP secretary VP turns  to  NP I
+NP it VP has  NP photo
+NP page VP illustrate  NP concept
+NP those VP illustrate  NP concept
+NP rule VP were  written  to  encourage  NP diversity
+NP cc VP to  prevent  NP company
+NP ? VP becoming  in  NP entertainment
+NP ? VP becoming  in  NP news
+NP Cadillac VP is  scheduled  to  go  on  NP sale
+NP Japan VP has  done  NP little
+NP official VP say  NP Japan
+NP April VP to  change  NP practice
+NP market VP has  declined CC and  NP number
+NP report VP was  prepared  NP however
+NP buyer VP has  dwindled  diminishing  NP value
+NP who VP opposed  NP States
+NP official VP have  said SBAR that  NP fighter
+NP Afghanistan VP joined  NP rank
+NP Afghanistan VP have  to  NP Iraq
+NP government VP will  encourage  NP merger
+NP ? VP said  NP government
+NP deadline VP are  NP result
+NP year VP to  turn PRT back  NP tide
+NP Act VP passed  by  NP Congress
+NP he VP not  had  NP opportunity
+NP game VP matching  NP season
+NP she VP has  done  NP so
+NP they VP not  provide  NP lift
+NP wave VP were CC and JJ punchless SBAR that  NP they
+NP 419 PP on  NP afternoon
+NP who VP talk  about  NP virtue
+NP world VP is  filled  with  NP people
+NP she VP knew SBAR that  NP world
+NP ? VP has  NP a
+NP who VP act  on  NP it
+NP ? VP 421  in  NP work
+NP Clark VP appears  to  have  NP seat
+NP share VP rose  NP 0.25
+NP 424 VP Does  NP it
+NP Helou VP joins  NP number
+NP ? VP making  NP Mediterranean
+NP account VP had  in  NP 1930
+NP he VP gives  NP blow-by-blow
+NP sympathizer VP to  bug  NP office
+NP sympathizer VP to  bug  NP home
+NP he VP removed  from  NP power
+NP he VP removed  from  NP of
+NP Commission VP to  have  NP he
+NP Oppenheimer VP had  with  NP colleague
+NP Silver VP was  winding PRT down  NP practice
+NP there VP were  NP opportunity
+NP ? VP wanted  to  make  NP sure
+NP they VP defeated  NP handily
+NP game VP to  win  NP championship
+NP on VP to  win  NP championship
+NP 20s VP were  arrested  NP afternoon
+NP award NP excuse  to  haul  NP out
+NP finery VP given  to  NP they
+NP government VP have  disputed  NP claim
+NP ? VP 432  NP those
+NP ? VP dismissed  NP she
+NP l VP regaling  NP we
+NP ? VP are  seen  in  NP studio
+NP rain VP will  remain  NP Tuesday
+NP squall VP will  reach  NP coast
+NP result VP have  been  compiled  said  NP Mills
+NP he VP wants  as  NP discussion
+NP he VP wants  as  NP input
+NP we VP moved  NP bag
+NP we VP moved  NP box
+NP shoebox VP stuffed  with  NP cupcake
+NP ? VP would  be  inhabited  by  NP a
+NP ? VP would  be  inhabited  by  NP quantity
+NP time VP passing  at  NP all
+NP i VP not  remember  NP time
+NP he VP draws  in  NP today
+NP he VP can  say  NP mom
+NP he VP decided  to  attack  NP they
+NP lawyer VP said  NP he
+NP lawyer VP dismissed  by  NP judge
+NP he VP failed  to  have  NP lawyer
+NP president VP plans  to  offer  NP bill
+NP aide VP say  NP president
+NP Congress PP during  NP week
+NP ? VP promises  to  be  NP hectic
+NP bill VP was  NP percent
+NP hot-rolled VP has  NP a
+NP which VP has  NP a
+NP ? VP is  used  on  NP outside
+NP auto VP account  for  NP half
+NP appliance VP account  for  NP half
+NP i VP got  NP package
+NP battery VP needed  to  be  charged  for  NP hour
+NP coverage VP arising  from  NP death
+NP image VP had  been  for  NP publication
+NP publication PP during  NP life
+NP patent VP issued  to  NP Dodd
+NP present VP could  become  NP gift
+NP lightlus VP touches PRT down  in  NP box
+NP ? VP being  rejected CC and VBN passed  on  to  NP else
+NP one VP hit  NP tower
+NP one VP hit  NP i
+NP secretary VP tells  NP I
+NP it VP must  be  NP Arab
+NP ? VP said  NP it
+NP business VP will  boom  NP he
+NP government VP will  leave  NP it
+NP ? VP make  NP 123,000
+NP UPN VP are  offering  NP show
+NP slot NP they  did  NP ago
+NP some VP is  earmarked  for  NP Center
+NP i VP was  diagnosed  with  NP hiv
+NP i VP not  stop  living SBAR because  NP i
+NP ? VP not  understand  was  NP essence
+NP you VP not  understand  NP it
+NP desire VP to  act CC and `` ``  decided  to  take  NP matter
+NP they VP ``  NP desire
+NP jet VP had  been  hijacked CC and  crashed  NP they
+NP hand VP to  avert  NP catastrophe
+NP Volvo PP for  NP design
+NP car VP are  NP match
+NP Sacks VP observed  NP brother
+NP Sacks VP wrote  of  NP how
+NP they VP sat  in  NP prime
+NP they VP seemed  to  pull  from  NP head
+NP McCarty VP writes  for  NP News
+NP ll VP walk PRT away  with  NP veehee
+NP pleasure VP is  guessing WHNP who  NP ll
+NP . VP Place  NP jalapeno
+NP . VP Place  NP garlic
+NP ? VP 458  NP .
+NP off VP said  NP Roach
+NP point VP is  NP off
+NP development VP are  NP point
+NP ? VP is  bracing  for  NP growth
+NP product VP to  grow  NP :
+NP ? VP expects  NP product
+NP economy VP is  expected  to  expand  NP percent
+NP Malaysia VP to  grow  NP :
+NP Po VP expects  NP Malaysia
+NP company VP followed  NP suit
+NP airport VP posed  NP obstacle
+NP speed VP is  NP life
+NP who VP wound PRT up  with  NP stock
+NP company VP was  started  by  NP old
+NP Statoil VP to  shut PRT down  NP field
+NP ? VP forced  NP Statoil
+NP five VP are ADJP alive CC and  will  be  allowed  to  return  NP home
+NP to VP talk  ``  NP Alabama
+NP Lucas VP stopped  in  NP Atlanta
+NP ? VP shelling PRT out  NP the
+NP company VP would  obtain  NP protection
+NP lawsuit VP have  threatened  NP well-being
+NP Alea VP use  NP strife
+NP Tabio VP use  NP strife
+NP ? VP to  place  NP character
+NP ? VP making  NP statement
+NP official VP express  NP concern
+NP Japan VP may  be  trying  to  boost  NP economy
+NP 471 NP food  on  NP plate
+NP he VP driven  by  NP prospect
+NP ? VP 472  NP he
+NP ? VP to  beat  NP he
+NP effort VP to  reach  NP Johnson
+NP you VP re  running  NP system
+NP air VP to  cool  NP something
+NP you VP have  to  resort  to  NP air
+NP i VP asked  NP native
+NP ? VP poked  NP fun
+NP sign VP is  NP dream
+NP Ariel VP bought  NP share
+NP sauce VP developed  with  NP panel
+NP they VP add  NP sauce
+NP that VP earned  NP he
+NP fire VP NUKES  NP that
+NP push VP TO  NP WALL
+NP Intrepid VP parking  NP it
+NP he VP not  riding  NP rail
+NP there VP were  NP search
+NP warehouse VP owned  by  NP firm
+NP Department VP is  for  NP policy
+NP 482 VP is  NP .
+NP officer VP entering  NP office
+NP officer VP climbing  over  NP roof
+NP picture VP showed  NP officer
+NP it VP expects  NP loss
+NP company VP PCS  tracking  NP stock
+NP quarter VP helped  send  NP company
+NP bag VP to  provide  NP protection
+NP they VP are  moving  to  install  NP bag
+NP ? VP 486  NP yield
+NP bill VP was  NP percent
+NP it VP could  swell  NP roster
+NP it VP has  NP option
+NP percent VP reduce  NP earnings
+NP thus VP reduce  NP earnings
+NP Hall VP said  NP Fenger
+NP we VP beat  NP Hall
+NP it VP not  be  done CC but  NP we
+NP they VP say  NP it
+NP Traina VP moved  into  NP spot
+NP Traina VP retired  in  NP 2000
+NP office VP has  been  NP supporter
+NP which VP has  been  NP supporter
+NP ? VP run PRT out  of  NP Fletcher
+NP export VP surpassed  NP total
+NP ? VP were  of  NP benchmark
+NP ? VP is  NP chock
+NP ? VP 492  of  NP converging
+NP both VP approached  from  NP direction
+NP decision VP to  ban  NP Bhutto
+NP Musharraf VP defended  NP decision
+NP ? VP taking  NP part
+NP starter VP not  pitched  in  NP week
+NP ? VP showed  NP sign
+NP McDaniel VP postponed  NP ruling
+NP motion VP to  move  NP out
+NP ? VP can  affect  NP quality
+NP ? VP are  NP factor
+NP ? VP 497  NP enough
+NP difference VP to  entice  NP fund
+NP he VP was SBAR whether  NP advertising
+NP Dionne VP said  NP he
+NP agency VP suspended  NP imposition
+NP Japan VP promised  to  address  NP concern
