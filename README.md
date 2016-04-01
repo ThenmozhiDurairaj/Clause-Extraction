@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿# Code for extracting clauses from complex sentences
-=======
-# Code for extracting clauses from complex sentences
->>>>>>> 0f14fcd8d15e1c09ecd2f4227b91c4b7bcbc88f5
 
 1. To execute in command prompt with a jar file, 
 
@@ -10,7 +6,6 @@
  
      b. Run the command:
    
-<<<<<<< HEAD
      		java –jar ClauseExt.jar data/in.txt result/out.txt
 
 	Reverb data set
@@ -25,9 +20,6 @@
 
 		java –jar ClauseExt.jar data/in_wikipedia.txt result/out_wikipedia.txt
 
-=======
-     `java –jar ClauseExt.jar in.txt out.txt`
->>>>>>> 0f14fcd8d15e1c09ecd2f4227b91c4b7bcbc88f5
 
 2. To use the source
  
