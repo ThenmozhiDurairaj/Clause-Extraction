@@ -1,0 +1,7 @@
+NP 0 IN In NP States NP pesticides PP including NP antimicrobial VP are VP regulated PP under NP FIFRA . . 
+NP examples PP of NP chemicals VP can VP be VP found PP in NP Indexes WHNP which VP are ADJP available PP on NP site . . 
+LST 2 NP show VP was VP organized ADVP well CC and NP it VP was VP finished PP by NP 9 . . 
+NP editors VP are VP provided PP with NP systems CC and NN packages . . 
+NP 4 NP page VP includes NP REDs CC and NP documents 
+NP laws CC and NNS policies VP govern NP EPA . . 
+NP 6 NP policies VP govern NP EPA WHNP that VP are VP contained PP in NP FIFRA . . 
