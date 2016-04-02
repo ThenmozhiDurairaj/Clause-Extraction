@@ -2,7 +2,7 @@
 
 1. To execute in command prompt with a jar file, 
 
-     a. Download [stanford-corenlp-2012-07-06-models.jar](https://github.com/evandrix/stanford-corenlp/raw/master/stanford-corenlp-2012-07-06-models.jar) into */lib* folder.
+     a. Download [stanford-corenlp-2012-07-06-models.jar](https://github.com/evandrix/stanford-corenlp/raw/master/stanford-corenlp-2012-07-06-models.jar) into **/lib** folder.
  
      b. Run the command:
    
