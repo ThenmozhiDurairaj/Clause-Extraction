@@ -8,7 +8,7 @@
    
      Sample data set
      	
-     		java –jar ClauseExt.jar data/in_sample.txt result/out_sample.txt
+     	java –jar ClauseExt.jar data/in_sample.txt result/out_sample.txt
 
 	Reverb data set
 
