@@ -6,7 +6,7 @@
  
      b. Run the command:
    
-     	Sample data set
+     Sample data set
      	
      		java –jar ClauseExt.jar data/in_sample.txt result/out_sample.txt
 
