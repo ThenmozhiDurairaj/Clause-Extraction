@@ -23,5 +23,4 @@
 		java –jar ClauseExt.jar data/in_wikipedia.txt result/out_wikipedia.txt
 
 
-(**Note:** Data sets and ground truth are available at https://www.mpi-inf.mpg.de/departments/databases-and-information-
-systems/software/clausie/)
+(**Note:** Data sets and ground truth are available at https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/software/clausie/)
