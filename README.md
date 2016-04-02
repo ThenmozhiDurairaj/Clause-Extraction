@@ -6,7 +6,9 @@
  
      b. Run the command:
    
-     	java –jar ClauseExt.jar data/in.txt result/out.txt
+     	Sample data set
+     	
+     		java –jar ClauseExt.jar data/in_sample.txt result/out_sample.txt
 
 	Reverb data set
 
@@ -21,24 +23,5 @@
 		java –jar ClauseExt.jar data/in_wikipedia.txt result/out_wikipedia.txt
 
 
-2. To use the source
- 
-  a. Software Required:
-
-                         edu.mit.jwi_2.1.4.jar
-  
-                         edu.sussex.nlp.jws.beta.11.jar
-
-                         jaws-bin.jar
-
-                         stanford-corenlp-2012-07-06-models.jar
-
-                         stanford-corenlp-2012-07-09.jar
- 
-                         xom.jar
- 
-   b. Input: **/data/in.txt**
-
-   c. Output: **/result/out.txt**
- 
-   d. Run the source file **ClauseExt.java**
+(**Note:** Data sets and ground truth are available at https://www.mpi-inf.mpg.de/departments/databases-and-information-
+systems/software/clausie/)
